@@ -5,3 +5,4 @@ A wide angle CCTV placed above the blackboard of the class detects the faces of 
 * [OpenCV](https://opencv.org/)
 
 Note:- The model is pretrained on Jason Mamoa, Elon Musk and Leonardo DiCap. So you can directly run the PredictAttendance
+![face1](https://user-images.githubusercontent.com/66885398/175358166-ce8373e8-da35-4f24-a293-2c19ac46adf9.png)
