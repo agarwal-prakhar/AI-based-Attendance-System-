@@ -1,4 +1,4 @@
-# Face Recognition and Attendance System
+# Multi-Face Recognition and Attendance System
 A wide angle CCTV placed above the blackboard of the class detects the faces of all the children, recognizes them and marks their attendance. Result is the Attendance on spreadsheet. Libraries used on python:
 * [face_recognition](https://github.com/ageitgey/face_recognition)
 * [dlib](https://pypi.org/project/dlib/)
